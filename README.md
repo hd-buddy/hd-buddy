@@ -1,6 +1,6 @@
 <h1 align="center">Namaste!!🙏, Everyone Myself Dhruv Hingu</h1>
 <h3 align="center">An enthusiastic learner in each domain.</h3>
-<img align="left" alt="dream set-up" width="400" src="https://cdn.dribbble.com/users/1105200/screenshots/3792937/workspace.gif" >
+<img align="right" alt="dream set-up" width="400" src="https://cdn.dribbble.com/users/1105200/screenshots/3792937/workspace.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hd-buddy&label=Profile%20views&color=0e75b6&style=flat" alt="hd-buddy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hd-buddy" alt="hd-buddy" /></a> </p>
