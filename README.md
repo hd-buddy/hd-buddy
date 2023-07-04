@@ -1,7 +1,9 @@
+
 ![MasterHead](https://user-images.githubusercontent.com/744973/63130880-bbd43600-bf70-11e9-91e7-0e7167771b5e.gif)
 <h1 align="center">Namaste!!🙏, Everyone Myself Dhruv Hingu</h1>
 <h3 align="center">An Enthusiastic Learner in each domain.</h3>
-<img align="right" src="https://cdn.dribbble.com/users/2145071/screenshots/4515179/des.gif" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."/>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hd-buddy&label=Profile%20views&color=0e75b6&style=flat" alt="hd-buddy" /> </p>
 
 - 🌱 I’m currently learning **MongoDB Express React Node.js (MERN), ML**
