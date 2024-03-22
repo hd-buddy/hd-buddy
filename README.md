@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dmhingu.personal@gmail.com**
 
-- ⚡ Fun fact **Just Love to Sleep 🛌😴**
+- ⚡ Fun fact **Loves Decoding Tech!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
