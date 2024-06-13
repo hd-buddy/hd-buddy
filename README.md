@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hd-buddy&label=Profile%20views&color=0e75b6&style=flat" alt="hd-buddy" /> </p>
 
-- 🌱 I’m currently learning **MySQL Express React Node.js (MERN), ML**
+- 🌱 I’m currently learning **Go Lang, Docker, AWS, GCP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hd-buddy](https://github.com/hd-buddy)
 
