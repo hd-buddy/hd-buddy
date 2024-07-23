@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hd-buddy](https://github.com/hd-buddy)
 
-- 💬 Ask me about **DBMS, Network Security**
+- 💬 Ask me about **Machine Learning, Computer Vision and APIs**
 
 - 📫 How to reach me **dmhingu.personal@gmail.com**
 
